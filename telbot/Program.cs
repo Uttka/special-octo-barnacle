@@ -86,7 +86,7 @@ namespace BotTest
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Таблица бонусов");
+                Console.WriteLine("Таблица бонусов:");
                 Console.WriteLine(ex.Message);
 
             }
@@ -111,7 +111,7 @@ namespace BotTest
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Таблица транзакций");
+                Console.WriteLine("Таблица транзакций:");
                 Console.WriteLine(ex.Message);
 
             }
